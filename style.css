@@ -1,0 +1,28 @@
+.card-body1{
+    background-color:orange;
+    color: white;
+   padding-left: 60%;
+}
+.card-body2{
+    background-color: blue;
+    color: white;
+}
+.card-body3{
+    background-color: green;
+    color: white;
+}
+.b{
+    margin-top: 10%;}
+.card{
+    margin-left:22%;
+   
+  
+}
+h5{
+    width: 900px;
+
+}
+.card-group{
+    width: 70%;
+    
+}
